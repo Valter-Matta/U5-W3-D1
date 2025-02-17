@@ -1,0 +1,2 @@
+gestione dei libri di una libreria
+entity libro id, titolo, casaEditricee, autore
